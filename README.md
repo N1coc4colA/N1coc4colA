@@ -1,16 +1,24 @@
-## Hi there 👋
+## 👋 Hey ! I'm Nicolas :)
 
-<!--
-**N1coc4colA/N1coc4colA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- 🔭 I’m currently working on ...-->
+- ⚙️ I like things to be Open Source.
+- 🌱 I’m taking a look at the different types of IR/IL
+- 💬 Ask me about ... compilation ? I like it.
+- 📫 How to reach me: Just use my mail and I shall answer.
+- ⚡ Fun fact: I like Oat Milk.
 
-Here are some ideas to get you started:
+<div align="center">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  ![Counter](https://komarev.com/ghpvc/?username=N1coc4colA&color=blue)
+  ![GitHub User's stars]([https://img.shields.io/github/stars/alvarosamudio?affiliations=OWNER%2CCOLLABORATOR&label=GH%20stars](https://img.shields.io/github/stars/N1coc4colA?affiliations=OWNER%2CCOLLABORATOR&label=Github%20stars))
+
+</div>
+<br>
+<div align="center">
+  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=N1coc4colA&theme=algolia"/>
+  </a>
+  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=N1coc4colA&theme=nord_dark" />
+  </a>
+</div>
